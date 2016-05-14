@@ -6,4 +6,8 @@ Android中贝塞尔曲线的使用实例
 
 了解了贝塞尔曲线的基本概念，下面来看一下贝塞尔曲线在Android中的具体应用。贝塞尔曲线在Android中主要有三个用途：动画差值器、绘制动画轨迹、实现平滑绘图。
 
+
+详情见博客：http://blog.csdn.net/goodlixueyong/article/details/51378828
+
+
 ![](https://github.com/viclee2014/BezierCurve/blob/master/app/src/main/res/raw/beziercurve.gif)
